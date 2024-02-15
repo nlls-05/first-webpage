@@ -9,7 +9,7 @@ const img2URL ="img/me2.jpg"
 //alert("his age is" +hisAge);
 let myFirstArray = [15 , 'Nour', true , false , 12.5]
 function sayHello(){
-    alert("Bro why are youi clicking here ");
+    alert("Bro why are you clicking here ");
     console.log("It is console.log")
 }
 
