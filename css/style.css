@@ -1,0 +1,35 @@
+h1,p,h3 {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  h1{
+    font-size:x-large;
+  }
+p {
+    color :rgb(0, 0, 0);
+    width: 500px;
+    border: 100px;
+    font-size: larger;
+    letter-spacing: 4px;
+    margin: 15;
+    padding: auto;
+}
+#mid{
+    color: rgb(42, 165, 85);
+    text-align: center;
+    height: max-content;
+    border-color: rgb(136, 78, 3);
+    border: 4px;
+    font-size: large;
+}
+h1:hover{
+    color:gray;
+}
+html{
+    background-color: rgb(165, 196, 189);
+}
+img\me.jpg{
+    align-items: center;
+}
